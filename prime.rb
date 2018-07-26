@@ -2,4 +2,5 @@
 def prime(num)
   
   
+  
 end  
